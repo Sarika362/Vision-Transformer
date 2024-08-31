@@ -1,0 +1,4 @@
+numpy
+keras==0.17.0
+tensorflow
+tensorflow-addons>=0.20.0
